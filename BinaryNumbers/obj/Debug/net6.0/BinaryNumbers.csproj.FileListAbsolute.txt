@@ -1,0 +1,15 @@
+C:\Users\fahee\Desktop\Coding\C#\BinaryNumbers\BinaryNumbers\bin\Debug\net6.0\BinaryNumbers.exe
+C:\Users\fahee\Desktop\Coding\C#\BinaryNumbers\BinaryNumbers\bin\Debug\net6.0\BinaryNumbers.deps.json
+C:\Users\fahee\Desktop\Coding\C#\BinaryNumbers\BinaryNumbers\bin\Debug\net6.0\BinaryNumbers.runtimeconfig.json
+C:\Users\fahee\Desktop\Coding\C#\BinaryNumbers\BinaryNumbers\bin\Debug\net6.0\BinaryNumbers.dll
+C:\Users\fahee\Desktop\Coding\C#\BinaryNumbers\BinaryNumbers\bin\Debug\net6.0\BinaryNumbers.pdb
+C:\Users\fahee\Desktop\Coding\C#\BinaryNumbers\BinaryNumbers\obj\Debug\net6.0\BinaryNumbers.csproj.AssemblyReference.cache
+C:\Users\fahee\Desktop\Coding\C#\BinaryNumbers\BinaryNumbers\obj\Debug\net6.0\BinaryNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahee\Desktop\Coding\C#\BinaryNumbers\BinaryNumbers\obj\Debug\net6.0\BinaryNumbers.AssemblyInfoInputs.cache
+C:\Users\fahee\Desktop\Coding\C#\BinaryNumbers\BinaryNumbers\obj\Debug\net6.0\BinaryNumbers.AssemblyInfo.cs
+C:\Users\fahee\Desktop\Coding\C#\BinaryNumbers\BinaryNumbers\obj\Debug\net6.0\BinaryNumbers.csproj.CoreCompileInputs.cache
+C:\Users\fahee\Desktop\Coding\C#\BinaryNumbers\BinaryNumbers\obj\Debug\net6.0\BinaryNumbers.dll
+C:\Users\fahee\Desktop\Coding\C#\BinaryNumbers\BinaryNumbers\obj\Debug\net6.0\refint\BinaryNumbers.dll
+C:\Users\fahee\Desktop\Coding\C#\BinaryNumbers\BinaryNumbers\obj\Debug\net6.0\BinaryNumbers.pdb
+C:\Users\fahee\Desktop\Coding\C#\BinaryNumbers\BinaryNumbers\obj\Debug\net6.0\BinaryNumbers.genruntimeconfig.cache
+C:\Users\fahee\Desktop\Coding\C#\BinaryNumbers\BinaryNumbers\obj\Debug\net6.0\ref\BinaryNumbers.dll
